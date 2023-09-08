@@ -1,13 +1,14 @@
-# nestjs-examples
-Simple NestJS examples.
+# second-example
 
-## first-example
-Tutorial NestJS para Iniciantes: Parte 1
-https://www.luiztools.com.br/post/tutorial-nestjs-para-iniciantes/
-
-## second-example
 Tutorial NestJS para Iniciantes: Parte 2
 https://www.luiztools.com.br/post/tutorial-nestjs-para-iniciantes-2/
+
+## How to Run
+
+1. git clone
+2. cd second-example
+3. npm install
+4. npm start
 
 ## More
 
