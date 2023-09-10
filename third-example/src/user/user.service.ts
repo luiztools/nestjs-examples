@@ -8,7 +8,7 @@ export type User = {
 }
 
 @Injectable()
-export class AppService {
+export class UserService {
 
   users: User[] = [];
 
