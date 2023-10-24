@@ -8,7 +8,7 @@ https://www.luiztools.com.br/post/como-criar-uma-webapi-com-nestjs-prisma-sql
 1. git clone
 2. cd prisma-sql-example
 3. npm install
-4. npm start
+4. npm run start:dev
 
 ## More
 

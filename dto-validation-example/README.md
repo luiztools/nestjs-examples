@@ -8,7 +8,7 @@ https://www.luiztools.com.br/post/tutorial-de-validacao-de-input-de-dados-em-nod
 1. git clone
 2. cd dto-validation-example
 3. npm install
-4. npm start
+4. npm run start:dev
 
 ## More
 

@@ -8,7 +8,7 @@ https://www.luiztools.com.br/post/tutorial-nestjs-para-iniciantes/
 1. git clone
 2. cd first-example
 3. npm install
-4. npm start
+4. npm run start:dev
 
 ## More
 

@@ -10,7 +10,7 @@ https://www.luiztools.com.br/post/como-usar-variaveis-de-ambiente-com-nestjs/
 3. npm install
 4. copy .env.example as .env
 5. fill .env variables
-6. npm start
+6. npm run start:dev
 
 ## More
 

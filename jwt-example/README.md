@@ -10,7 +10,7 @@ https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-nestjs
 3. copy .env.example as .env
 4. fill .env variables
 5. npm install
-6. npm start
+6. npm run start:dev
 
 ## More
 

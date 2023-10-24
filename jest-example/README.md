@@ -1,12 +1,11 @@
-# third-example
-
-Tutorial NestJS para Iniciantes: Parte 3
-https://www.luiztools.com.br/post/tutorial-nestjs-para-iniciantes-3
+## jest-example
+Tutorial de testes em NestJS
+https://www.luiztools.com.br/post/como-criar-unit-tests-em-nestjs-com-jest
 
 ## How to Run
 
 1. git clone
-2. cd third-example
+2. cd jest-example
 3. npm install
 4. npm run start:dev
 
