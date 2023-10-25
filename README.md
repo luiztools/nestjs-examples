@@ -10,8 +10,7 @@ Tutorial NestJS para Iniciantes: Parte 1
 https://www.luiztools.com.br/post/tutorial-nestjs-para-iniciantes/
 
 ## jest-example
-Tutorial de testes em NestJS
-https://www.luiztools.com.br/post/como-criar-unit-tests-em-nestjs-com-jest
+Tutoriais de testes em NestJS
 
 ## jwt-example
 Tutorial Autenticação JSON Web Token (JWT) em NestJS
