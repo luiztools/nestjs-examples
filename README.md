@@ -16,6 +16,10 @@ Tutoriais de testes em NestJS
 Tutorial Autenticação JSON Web Token (JWT) em NestJS
 https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-nestjs
 
+## prisma-mock-example
+Como testar uma WebAPI com NestJS, Prisma e banco SQL usando Prisma Mock.
+https://www.luiztools.com.br/post/como-criar-mocks-bd-nestjs-jest-prisma
+
 ## prisma-sql-example
 Como criar uma WebAPI com NestJS, Prisma e banco SQL
 https://www.luiztools.com.br/post/como-criar-uma-webapi-com-nestjs-prisma-sql

@@ -25,7 +25,7 @@ describe('UserService Tests', () => {
       uf: "RS"
     } as users;
 
-    const id: string = "abc123";
+    const id: string = "1";
 
     userService.users.create = jest.fn().mockReturnValueOnce({ id, ...user });
 
@@ -39,7 +39,7 @@ describe('UserService Tests', () => {
       name: "LuizTools"
     } as users;
 
-    const id: string = "abc123";
+    const id: string = "1";
 
     userService.users.update = jest.fn().mockReturnValueOnce({ id, ...user });
 
@@ -49,7 +49,7 @@ describe('UserService Tests', () => {
   });
 
   it('Should get an user', async () => {
-    const id: string = "abc123";
+    const id: string = "1";
 
     userService.users.findUnique = jest.fn().mockReturnValueOnce({ id, age: 35, name: "LuizTools", uf: "RS" });
 
@@ -60,7 +60,7 @@ describe('UserService Tests', () => {
 
   it('Should get users', async () => {
 
-    const id: string = "abc123";
+    const id: string = "1";
     const users = [{ id, age: 35, name: "LuizTools", uf: "RS" }];
     userService.users.findMany = jest.fn().mockReturnValueOnce(users);
 
@@ -71,7 +71,7 @@ describe('UserService Tests', () => {
   });
 
   it('Should delete an user', async () => {
-    const id: string = "abc123";
+    const id: string = "1";
 
     userService.users.delete = jest.fn().mockReturnValueOnce(true);
 
